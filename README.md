@@ -1,4 +1,4 @@
-# Deepnude-tierlist
+# Deepnude AI tierlist
 This project is designed to show a complete tier list of DEEPNUDE AI websites
 - [Deepswap AI](https://www.deepswap.ai/)
 - [FaceMagic AI](https://www.facemagic.ai/faceswap)
